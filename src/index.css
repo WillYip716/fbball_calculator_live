@@ -1,0 +1,76 @@
+.card{
+    
+    display: inline-block;
+    width: 30%;
+    text-align: left;
+    margin: 1rem;
+    border: 1px solid rgba(0,0,0,.25);
+    vertical-align: top;
+}
+
+footer{
+    background-color: #343a40 !important;
+    text-align: center;
+    color: white;
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    z-index: 100;
+}
+
+.container{
+    margin-top: 50px;
+    max-width: 1240px;
+}
+
+.table{
+    font-size: .85rem;
+}
+
+.hidden { 
+    display:none; 
+}
+
+.react-bootstrap-table table{
+    table-layout: auto !important;
+}
+
+.btn{
+    padding: revert;
+}
+
+.btn-group{
+    margin-bottom: 20px;
+}
+
+.main{
+    padding-bottom: 8rem;
+}
+
+.info{
+    font-size: 24px;
+    color: white !important;
+    border-color: #343a40 !important;
+    background-color: #343a40 !important;
+}
+
+.dropdown-item{
+    background-color: #343a40 !important;
+    color:white;
+}
+
+.dropdown-menu{
+    padding: 0;
+    margin: .5rem;
+}
+
+.tradeform{
+    display: inline-block;
+    width: 50%;
+}
+
+a:hover {
+    text-decoration: none;
+}
